@@ -16,6 +16,7 @@ Where:
 # NOTE:
 After the expansion of the zone of the ITF, you need a software system to defragment the ITF zone.
 
+# Writen with Microsoft Visual Studio 2015 Community. Uses .Net Framework 4.6+
 # License - MIT
 Copyright (c) 2016 h-zone
 
