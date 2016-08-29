@@ -14,7 +14,7 @@ Where:
 *    [456] is files count to create to each directory
 
 # NOTE:
-After the expansion of the zone of the MTF, you need a software system to defragment the ITF zone.
+After the expansion of the zone of the MFT, you need a software system to defragment the MFT zone.
 
 # Writen with Microsoft Visual Studio 2015 Community. Uses .Net Framework 4.6+
 # License - MIT
